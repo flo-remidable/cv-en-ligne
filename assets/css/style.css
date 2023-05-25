@@ -4,6 +4,11 @@
     font-family: 'raleway';
     src: url(../../font/Raleway-Regular.woff);
     src: url(../../font/Raleway-Regular.ttf) format("truetype");
+    font-family: 'raleway-italic';
+    src: url(../../font/Raleway-Italic.ttf) format(truetype);
+    src: url(../../font/Raleway-Italic.woff);
+    font-family: "raleway-bold";
+    src: url(../../font/Raleway-Bold.ttf);
 }
 
 *{
